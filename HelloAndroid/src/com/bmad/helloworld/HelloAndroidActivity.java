@@ -11,7 +11,7 @@ public class HelloAndroidActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         TextView tv = new TextView(this);
-        tv.setText("Hi Brent");
+        tv.setText("third try");
         setContentView(tv);
     }
 }
